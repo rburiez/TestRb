@@ -1,7 +1,0 @@
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\Web.exe
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\Web.dll
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\Web.deps.json
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\Web.runtimeconfig.json
-C:\GIT\testrb\Web\obj\Release\net6.0\PubTmp\Out\Web.pdb
