@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mZK1HC5WRLNg4y17r2Re9nQIwfC7MAsrjqi3Leuwb47mcWXfR7uAEg9EdUsIlr0/595JYdy3/d2GjHAWDvQ3xQ==",
+  "dgSpecHash": "XPwbvPQjm8IIHzaWOXdrC1xJRfAnReTP+lt42hdftE7Sr6b72NvF4FP4rHgVJqTGjx+QLL0wrFJ9F4iKYNUBkg==",
   "success": true,
   "projectFilePath": "C:\\GIT\\testrb\\WebTest\\WebTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rburiez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }
