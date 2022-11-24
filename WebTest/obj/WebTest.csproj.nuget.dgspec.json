@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\testrb\\WebTest\\WebTest.csproj": {}
+    "C:\\GIT\\TestRb\\WebTest\\WebTest.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\testrb\\WebTest\\WebTest.csproj": {
+    "C:\\GIT\\TestRb\\WebTest\\WebTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\testrb\\WebTest\\WebTest.csproj",
+        "projectUniqueName": "C:\\GIT\\TestRb\\WebTest\\WebTest.csproj",
         "projectName": "WebTest",
-        "projectPath": "C:\\GIT\\testrb\\WebTest\\WebTest.csproj",
+        "projectPath": "C:\\GIT\\TestRb\\WebTest\\WebTest.csproj",
         "packagesPath": "C:\\Users\\rburiez\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\testrb\\WebTest\\obj\\",
+        "outputPath": "C:\\GIT\\TestRb\\WebTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rburiez\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H14OTZdevFWhEQ+IieFVpvP+jSqVa3Xz39sYGFD/rk388X5PcUlU7VOg7JLYC7JDVB8qw2Xinp29rE5ve/9s8g==",
+  "dgSpecHash": "Fc2hC9pTVdK6aHgaqzBK/MfyfbhDEDKgEOE6eTYLB/b3VUgxhTP6sisk9uVZ6WH+FQPx+wMDwX7kEqqI3z8xWg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\testrb\\WebTest\\WebTest.csproj",
+  "projectFilePath": "C:\\GIT\\TestRb\\WebTest\\WebTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
